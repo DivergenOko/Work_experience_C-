@@ -1,4 +1,4 @@
-# Work_experience_C-
+# Work_experience_C_plusplus
 //Основы С++ в среде разработки Visual Studio 2019
 
 Учебная литература:
