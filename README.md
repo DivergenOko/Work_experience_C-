@@ -1,5 +1,5 @@
-# Work_experience_C_plusplus
-//Основы С++ в среде разработки Visual Studio 2019
+
+
 
 # Учебная литература:
 1) Г. Шилдт - Полный справочник по С++ 4-ое издание https://codernet.ru/books/c_plus/polnyj_spravochnik_po_c_4-e_izdanie/
