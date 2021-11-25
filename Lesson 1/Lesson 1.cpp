@@ -1,12 +1,13 @@
 ﻿// Лекция 1. Установка и создание первого проекта в среде разработки Visual Studio.
 // Lesson 1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n"; // \n вывод с новой строки
+    cout << "Hello World!"<<endl; // \n вывод с новой строки
+    system("pause");
 }
 
 // Комментироавние строк: двумя способами.
