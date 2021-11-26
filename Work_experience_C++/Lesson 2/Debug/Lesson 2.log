@@ -1,0 +1,4 @@
+﻿  Lesson 2.cpp
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 2\Lesson 2.cpp(34,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 2\Lesson 2.cpp(42,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lesson 2.vcxproj -> C:\Users\yanchik\Desktop\Work_experience_C++\Debug\Lesson 2.exe
