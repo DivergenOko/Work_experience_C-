@@ -1,0 +1,9 @@
+﻿  Lesson 3.cpp
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(37,12): error C2086: int k: переопределение
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(33): message : см. объявление "k"
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(37,15): error C2086: int m: переопределение
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(27): message : см. объявление "m"
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(37,18): error C2086: int c: переопределение
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(16): message : см. объявление "c"
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(39,9): error C2086: int a: переопределение
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 3\Lesson 3.cpp(16): message : см. объявление "a"
