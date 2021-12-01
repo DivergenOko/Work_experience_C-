@@ -1,0 +1,12 @@
+﻿  Lesson 7.1.cpp
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 7.1\Lesson 7.1.cpp(33,15): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 7.1\Lesson 7.1.cpp(63,15): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  Lesson 7.1.vcxproj -> C:\Users\yanchik\Desktop\Work_experience_C++\Debug\Lesson 7.1.exe
