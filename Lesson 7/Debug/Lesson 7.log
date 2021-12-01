@@ -1,0 +1,3 @@
+﻿  Lesson 7.cpp
+C:\Users\yanchik\Desktop\Work_experience_C++\Lesson 7\Lesson 7.cpp(15,22): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+  Lesson 7.vcxproj -> C:\Users\yanchik\Desktop\Work_experience_C++\Debug\Lesson 7.exe
